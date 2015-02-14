@@ -16,7 +16,7 @@ Your best bet is simply to open this file in AppleScript Editor, compile it, and
 
 ## Version History
 - **0.1.0** (April 2, 2013): Initial re-release.
-
+- **0.1.1** (February 14, 2015): Fix for new version of Evernote
 
 ## License
 Use it, change it, repackage it, whatever. Try not to take credit for my work.
